@@ -6,10 +6,10 @@ I’m currently expanding my skill set with **PostgreSQL**, **SQL**, and **Prism
 
 ## About Me:
 
-👋 *Backend-focused web developer with a passion for **Node.js**, **Express**, and **MongoDB**.*  
-🚀 *I specialize in building scalable APIs and efficient systems.*  
+👋 *Backend-focused web developer with a passion for* **Node.js**, **Express**, *and* **MongoDB**  
+🚀 *I specialize in building scalable APIs and efficient systems*  
 💡 *I focus on clean, well-structured code and enjoy collaborating on impactful projects.*  
-🌐 *I’m constantly evolving and expanding my skill set, with **Elasticsearch** and **RabbitMQ** next on my learning path.*  
+🌐 *I’m constantly evolving and expanding my skill set, with* **Elasticsearch** *and* **RabbitMQ** *next on my learning path.*  
 🤝 *Let’s connect! Whether it's coding advice or potential projects, I’m always up for a chat.*
 
 ## 💻 Tech Stack:
