@@ -44,7 +44,7 @@ I’m currently expanding my skill set with **PostgreSQL**, **SQL**, and **Prism
 </p>
 
 
-#### <p align="center">Cloud/Hosting</p>
+### <p align="center">Cloud/Hosting</p>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
