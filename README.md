@@ -12,11 +12,8 @@ I’m currently expanding my skill set with **PostgreSQL**, **SQL**, and **Prism
 🌐 *I’m constantly evolving and expanding my skill set, with **Elasticsearch** and **RabbitMQ** next on my learning path.*  
 🤝 *Let’s connect! Whether it's coding advice or potential projects, I’m always up for a chat.*
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bbelbuken) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bbelbuken) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bbelbuken) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/bbelbuken) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bbelbuken) 
-
 ## 💻 Tech Stack:
-#### <p align="center">*Backend*</p>
+### <p align="center">Backend</p>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
@@ -33,7 +30,7 @@ I’m currently expanding my skill set with **PostgreSQL**, **SQL**, and **Prism
 
 
 
-#### <p align="center">*Frontend*</p>
+### <p align="center">Frontend</p>
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
@@ -47,7 +44,7 @@ I’m currently expanding my skill set with **PostgreSQL**, **SQL**, and **Prism
 </p>
 
 
-#### <p align="center">*Cloud/Hosting*</p>
+#### <p align="center">Cloud/Hosting</p>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
@@ -55,14 +52,14 @@ I’m currently expanding my skill set with **PostgreSQL**, **SQL**, and **Prism
 </p>
 
 
-#### <p align="center">*Version Control*</p>
+### <p align="center">Version Control</p>
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 
-#### <p align="center">*Tools & Utilities*</p>
+### <p align="center">Tools & Utilities</p>
 <p align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier"/>
