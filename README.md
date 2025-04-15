@@ -4,7 +4,7 @@ I'm a backend-focused developer with a solid foundation in frontend technologies
 Specializing in **Node.js**, **Express**, and **MongoDB**, I am passionate about building efficient and scalable systems.  
 I’m currently expanding my skill set with **PostgreSQL**, **SQL**, and **Prisma ORM**.
 
-## About Me:
+## About Me
 
 👋 *Backend-focused web developer with a passion for* **Node.js**, **Express**, *and* **MongoDB**  
 🚀 *I specialize in building scalable APIs and efficient systems*  
@@ -12,7 +12,7 @@ I’m currently expanding my skill set with **PostgreSQL**, **SQL**, and **Prism
 🌐 *I’m constantly evolving and expanding my skill set, with* **Elasticsearch** *and* **RabbitMQ** *next on my learning path.*  
 🤝 *Let’s connect! Whether it's coding advice or potential projects, I’m always up for a chat.*
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ### <p align="center">Backend</p>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
@@ -71,7 +71,7 @@ I’m currently expanding my skill set with **PostgreSQL**, **SQL**, and **Prism
 
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=bbelbuken&theme=highcontrast&hide_border=false"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbelbuken&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
