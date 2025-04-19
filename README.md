@@ -12,7 +12,7 @@ I’m currently expanding my skill set with **PostgreSQL**, **SQL**, and **Prism
 🌐 *I’m constantly evolving and expanding my skill set, with* **Elasticsearch** *and* **RabbitMQ** *next on my learning path.*  
 🤝 *Let’s connect! Whether it's coding advice or potential projects, I’m always up for a chat.*
 
-## 💻 Tech Stack 
+## 💻 Tech Stack :
 ### <p align="center">Backend</p>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
