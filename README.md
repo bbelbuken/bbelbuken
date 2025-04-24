@@ -4,7 +4,7 @@ I'm a backend-focused developer with a solid foundation in frontend technologies
 Specializing in **Node.js**, **Express**, and **MongoDB**, I am passionate about building efficient and scalable systems.  
 I’m currently expanding my skill set with **PostgreSQL**, **SQL**, and **Prisma ORM**.
 
-## About Me :
+## About Me 
 
 👋 *Backend-focused web developer with a passion for* **Node.js**, **Express**, *and* **MongoDB**  
 🚀 *I specialize in building scalable APIs and efficient systems*  
