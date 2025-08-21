@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I’m a full-stack developer passionate about creating AI-powered applications, real-time bots, API integrations, NLP pipelines, LLM-based code analysis, RAG architectures, and data-driven dashboards, while working with modern technologies like Node.js, Express, MongoDB, PostgreSQL, Next.js, Tailwind CSS, and Python with FastAPI to combine efficient backend architectures with interactive frontend experiences.
+I’m a **full-stack developer** passionate about creating **AI-powered applications**, **real-time bots**, **API integrations**, **NLP pipelines**, **LLM-based code analysis**, **RAG architectures**, and **data-driven dashboards**, while working with modern technologies like **Node.js**, **Express**, **MongoDB**, **PostgreSQL**, **Next.js**, **Tailwind CSS**, and **Python with FastAPI** to combine efficient backend architectures with interactive frontend experiences.
+
 
 
 ## 💻 Tech Stack :
