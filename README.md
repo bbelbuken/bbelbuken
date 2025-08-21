@@ -1,16 +1,7 @@
 # Hi there 👋
 
-I'm a backend-focused developer with a solid foundation in frontend technologies.  
-Specializing in **Node.js**, **Express**, and **MongoDB**, I am passionate about building efficient and scalable systems.  
-I’m currently expanding my skill set with **PostgreSQL**, **SQL**, and **Prisma ORM**.
+I’m a full-stack developer passionate about creating AI-powered applications, real-time bots, API integrations, NLP pipelines, LLM-based code analysis, RAG architectures, and data-driven dashboards, while working with modern technologies like Node.js, Express, MongoDB, PostgreSQL, Next.js, Tailwind CSS, and Python with FastAPI to combine efficient backend architectures with interactive frontend experiences.
 
-## About Me :
-
-👋 *Backend-focused web developer with a passion for* **Node.js**, **Express**, *and* **MongoDB**  
-🚀 *I specialize in building scalable APIs and efficient systems*  
-💡 *I focus on clean, well-structured code and enjoy collaborating on impactful projects.*  
-🌐 *I’m constantly evolving and expanding my skill set, with* **Elasticsearch** *and* **RabbitMQ** *next on my learning path.*  
-🤝 *Let’s connect! Whether it's coding advice or potential projects, I’m always up for a chat.*
 
 ## 💻 Tech Stack :
 ### <p align="center">Backend</p>
